@@ -1,0 +1,33 @@
+{
+  "name": "portfolio-nextjs",
+  "version": "1.0.0",
+  "description": "Vaneet Dahiya - Data Engineering & BI Leader Portfolio",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@hookform/resolvers": "^3.9.0",
+    "@radix-ui/react-dialog": "^1.1.6",
+    "@types/node": "^22.0.0",
+    "@types/react": "^18.3.0",
+    "@types/react-dom": "^18.3.0",
+    "autoprefixer": "^10.4.20",
+    "clsx": "^2.1.1",
+    "framer-motion": "^11.15.0",
+    "lucide-react": "^0.468.0",
+    "next": "^14.2.0",
+    "next-themes": "^0.4.6",
+    "postcss": "^8.4.47",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-hook-form": "^7.54.0",
+    "tailwind-merge": "^2.6.0",
+    "tailwindcss": "^3.4.17",
+    "typescript": "^5.6.0",
+    "zod": "^3.24.0"
+  }
+}
