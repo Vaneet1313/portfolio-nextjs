@@ -9,12 +9,12 @@ const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
   title: 'Vaneet Dahiya | Data Engineering & BI Leader',
-  description: 'AVP with 13+ years driving digital transformation, leading global teams, and delivering enterprise-scale BI solutions with proven ROI.',
+  description: 'AVP with 15+ years driving digital transformation, leading global teams, and delivering enterprise-scale BI solutions with proven ROI.',
   keywords: ['Data Engineering', 'Business Intelligence', 'BI Consultant', 'Qlik Expert', 'Power BI', 'AWS', 'Snowflake', 'Data Leadership'],
   authors: [{ name: 'Vaneet Dahiya' }],
   openGraph: {
     title: 'Vaneet Dahiya | Data Engineering & BI Leader',
-    description: 'Transforming Data into Business Value - 13+ years of expertise in Data Engineering and BI',
+    description: 'Transforming Data into Business Value - 15+ years of expertise in Data Engineering and BI',
     type: 'website',
     locale: 'en_US'
   },

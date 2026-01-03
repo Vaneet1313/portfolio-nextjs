@@ -19,7 +19,7 @@ export default function AboutSection() {
 
             <FadeIn direction="up" delay={0.1}>
               <p className="text-base md:text-lg text-gray-600 dark:text-gray-300 mb-4 leading-relaxed">
-                Data Technology Professional with over 13 years of expertise in Data Engineering and Business Intelligence.
+                Data Technology Professional with over 15 years of expertise in Data Engineering and Business Intelligence.
                 Currently serving as AVP at AIG, I lead a global team of 20+ professionals across North America and offshore delivery centers.
               </p>
             </FadeIn>

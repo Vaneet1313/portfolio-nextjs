@@ -2,7 +2,7 @@ export const siteConfig = {
   name: 'Vaneet Dahiya',
   title: 'Data Engineering & BI Leader',
   tagline: 'Transforming Data into Business Value',
-  description: 'AVP with 13+ years driving digital transformation, leading global teams, and delivering enterprise-scale BI solutions with proven ROI.',
+  description: 'AVP with 15+ years driving digital transformation, leading global teams, and delivering enterprise-scale BI solutions with proven ROI.',
   email: 'Vaneetdahiya@gmail.com',
   phone: '732-666-7198',
   location: 'New York & New Jersey',
@@ -15,7 +15,7 @@ export const siteConfig = {
   formspreeId: 'mwvknnkw',
   resume: '/resume/Vaneet_Dahiya_Resume.pdf',
   stats: {
-    yearsExperience: 13,
+    yearsExperience: 15,
     programValue: '$5M',
     dashboards: 200
   }

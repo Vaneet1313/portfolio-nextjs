@@ -83,7 +83,7 @@ export default function ExperienceSection() {
       <div className="max-w-7xl mx-auto">
         <SectionHeading
           title="Professional Experience"
-          subtitle="13+ years of driving digital transformation"
+          subtitle="15+ years of driving digital transformation"
           className="mb-8"
         />
 
