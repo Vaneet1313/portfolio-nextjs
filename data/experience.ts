@@ -5,6 +5,7 @@ export interface Experience {
   role: string
   location: string
   dateRange: string
+  businessAreas?: string[]
   highlights: string[]
   technologies: string[]
   color: 'primary' | 'accent' | 'gray'
@@ -18,6 +19,7 @@ export const experiences: Experience[] = [
     role: 'AVP, Data Engineering and Business Intelligence',
     location: 'New York & New Jersey',
     dateRange: 'Jun 2017 - Present',
+    businessAreas: ['Underwriting', 'Claims', 'Operations', 'Financial Reporting'],
     highlights: [
       'Managed and executed BI Program (~$5M) successfully rolled out across US, APAC, and EMEA',
       'Partnered with business leaders to form COE by restructuring multiple disjointed teams, eliminating duplicate reporting',

@@ -46,6 +46,25 @@ function ExperienceCard({ experience, index }: { experience: Experience; index: 
               </span>
             </div>
 
+            {/* Business Areas */}
+            {experience.businessAreas && experience.businessAreas.length > 0 && (
+              <div className="mt-3 mb-3">
+                <h4 className="text-sm font-semibold text-gray-700 dark:text-gray-300 mb-2">
+                  Business Areas:
+                </h4>
+                <div className="flex flex-wrap gap-2">
+                  {experience.businessAreas.map((area) => (
+                    <span
+                      key={area}
+                      className="px-3 py-1 bg-gray-100 dark:bg-slate-700 text-gray-700 dark:text-gray-300 rounded-full text-sm font-medium"
+                    >
+                      {area}
+                    </span>
+                  ))}
+                </div>
+              </div>
+            )}
+
             {/* Highlights */}
             <ul className="space-y-1.5 text-base text-gray-600 dark:text-gray-300 mt-3 mb-3">
               {experience.highlights.map((highlight, i) => (
